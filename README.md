@@ -15,7 +15,7 @@
 
 - 👨‍💻 Checkout my <a href="https://sandeeprawat313.github.io">Portfolio</a>
 
-- 📫 How to reach me **Sandeeprawat@gmail.com**
+- 📫 How to reach me *Sandeeprawat313@gmail.com*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sp8YwPiC-EshbYEpwSpz0ROgp_xbCbGY/view?usp=sharing)
 
