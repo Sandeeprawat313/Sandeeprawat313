@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Core Java and MYSQL**
 
-- 👨‍💻 All of my projects are available at [https://sandeeprawat313.github.io/](https://sandeeprawat313.github.io/)
+- 👨‍💻 Checkout my <a href="https://sandeeprawat313.github.io">Portfolio</a>
 
 - 📫 How to reach me **Sandeeprawat@gmail.com**
 
