@@ -41,10 +41,9 @@
 📊 My Github Stats
 
 </a> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeeprawat313&show_icons=true&locale=en&layout=compact" alt="sandeeprawat313" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeeprawat313&show_icons=true&locale=en" alt="sandeeprawat313" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeeprawat313&" alt="sandeeprawat313" /></p>
-
-<p>NEW LINE OF CODE</p>
-
+<br>
