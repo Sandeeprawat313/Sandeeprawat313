@@ -37,7 +37,8 @@
 
 <br>
 <br>
-
+    
+📊 My Github Stats
 
 </a> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeeprawat313&show_icons=true&locale=en&layout=compact" alt="sandeeprawat313" /></p>
 
@@ -46,17 +47,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeeprawat313&" alt="sandeeprawat313" /></p>
 
 <p>NEW LINE OF CODE</p>
-## 📊 My Github Stats
 
-![Anjuman GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeeprawat313&show_icons=true&theme=radical) 
-
-</br>
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sandeeprawat313&theme=radical) 
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeeprawat313&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Coolasid/github-readme-stats)
-
-</br>
