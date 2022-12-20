@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java and MYSQL**
+- 🌱 I’m currently learning **Spring Boot framework**
 
 - 👨‍💻 Checkout my <a href="https://sandeeprawat313.github.io">Portfolio</a>
 
