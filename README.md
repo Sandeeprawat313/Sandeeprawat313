@@ -18,7 +18,7 @@
 
 - 📫 How to reach me *Sandeeprawat313@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sp8YwPiC-EshbYEpwSpz0ROgp_xbCbGY/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sp8YwiC-EshbYEpwSpz0ROgp_xbCbGY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
